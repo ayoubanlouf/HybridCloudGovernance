@@ -7,8 +7,8 @@ The goal is to showcase hybrid cloud governance, automated configuration, and en
 Key highlights:
 - Onboarding a local "On-Prem" server into Azure Arc.
 - Using Terraform to provision cloud resources and enforce governance.
-- Applying Azure Policies and Extensions for monitoring and compliance.
-- Publishing the entire workflow as a recruiter‑ready portfolio project.
+- Applying Azure Policies for monitoring and compliance.
+- Monitoring server performance counterd with Azure Monitor Agent.
 
 ---
 
