@@ -8,7 +8,7 @@ Key highlights:
 - Onboarding a local "On-Prem" server into Azure Arc.
 - Using Terraform to provision cloud resources and enforce governance.
 - Applying Azure Policies for monitoring and compliance.
-- Monitoring server performance counterd with Azure Monitor Agent.
+- Monitoring server performance counters with Azure Monitor Agent.
 
 ---
 
